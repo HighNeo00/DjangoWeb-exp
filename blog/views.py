@@ -21,3 +21,7 @@ def index(request):
 
 def posts(request):
     return render(request, 'blog/posts.html', {})
+
+
+def error_404_view(request,exeption):
+    return render('404.html')
