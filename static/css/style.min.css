@@ -333,14 +333,13 @@ img {
 }
 .error404 {
   position: relative;
-  background: url("../img/404notfound.jpg") no-repeat center center/cover;
+  background: url("../img/main404.jpg") no-repeat center center/cover;
   height: 100vh;
+  weight:100%;
   opacity: 100%;
 }
 .error404H1{
-  color: rgb(102, 100, 100);
-  margin-bottom: 160px;
-  margin-right: 30px;
+  color: rgb(0, 225, 255);
 }
 .landing-inner {
   color: #fff;
