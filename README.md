@@ -1,5 +1,6 @@
 # پروژه جنگو (devconnector)
 زیر نظر استاد محمد نوذری پاک @MohammadNPak
+
 راهنمای استفاده
 
 `python -m venv .venv`
